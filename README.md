@@ -1,2 +1,2 @@
 # FrontEnde-Project
-A frontEnd project usin CSS &amp; HTML.
+A frontEnd project using CSS &amp; HTML.
